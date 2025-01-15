@@ -1,6 +1,5 @@
 "use strict"
 let board = document.getElementById("canvas")
-
 board.width = window.innerWidth
 board.height = window.innerHeight
 
