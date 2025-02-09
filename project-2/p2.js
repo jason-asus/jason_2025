@@ -30,8 +30,6 @@ const grasshopper = {
 }
 grasshopper.img.src = "./grasshopper.png"
 
-// let grasshopper = new Image()
-
 /** draw */
 const update = () => {
   requestAnimationFrame(update)
